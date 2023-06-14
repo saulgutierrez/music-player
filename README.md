@@ -10,3 +10,4 @@ Technologies used:
 <li> HTML </li>
 <li> CSS </li>
 <li> Vanilla JS </li>
+<li> Material icons </li>
