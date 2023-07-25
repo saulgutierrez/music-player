@@ -11,3 +11,4 @@ Technologies used:
 <li> CSS </li>
 <li> Vanilla JS </li>
 <li> Material icons </li>
+<li> Google Fonts </li>
