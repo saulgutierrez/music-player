@@ -12,3 +12,6 @@ Technologies used:
 <li> Vanilla JS </li>
 <li> Material icons </li>
 <li> Google Fonts </li>
+
+![image](https://github.com/saulgutierrez/music-player/assets/62368834/4e0b8df2-1f2b-4f6f-abb8-5051a79814c1)
+
